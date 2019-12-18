@@ -19,7 +19,7 @@ import com.cyberaid.cyberaid.repository.DoadorRepository;
 @RestController
 @RequestMapping(value = "/api/doadores")
 public class DoadorResource {
-
+//testando
 	@Autowired
 	DoadorRepository doadorRepository;
 
